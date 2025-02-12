@@ -11,7 +11,7 @@ You should now have something like:
 
 Use any image search (e.g. Google) and you will find the name of this place.
 
-Put it inside the [flag format](https://github.com/QWERTZexe/THAINNOS-hacking-challenge-2025-documentation/blob/main/README.md) and you solved the challenge.
+Put it in the [flag format](https://github.com/QWERTZexe/THAINNOS-hacking-challenge-2025-documentation/blob/main/README.md) and you solved the challenge.
 
 
 ## Side-facts:
