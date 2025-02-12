@@ -7,4 +7,16 @@ If you want to check for the correctness of a flag, hash it with SHA256 and comp
 
 ## Definition of common terms
 
-- Putting it in the flag format = Put a string inside THAINNOS{\<Flag>}<>
+- Putting \<smth> in the flag format = Put a string inside THAINNOS{\<smth>}
+
+- Free Challenge = Challenge where the correct flag is in the challenges description (plain text)
+
+- In the linux shell = In a WSL CLI (For windows)
+
+## Requirements
+
+All challenges were solved on Windows 11, 24H2.
+Sometimes WSL was used
+
+## LICENSE
+AGPL v3
